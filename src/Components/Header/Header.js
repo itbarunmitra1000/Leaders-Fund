@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <h1>This Is header</h1>
+            <h1>Top World Political Leaders Fund $ 1000000 </h1>
         </div>
     );
 };

@@ -6,6 +6,7 @@ const Leader = (props) => {
     return (
         <div className="leader">
             <div>
+                
                 <img src={img} alt="" />
                 <h3>Name: {name}</h3>
                 <h2>Birth: {birth}</h2>
@@ -13,6 +14,7 @@ const Leader = (props) => {
                 <h4>Role: {role}</h4>
                 <h4>Salary: {salary} </h4>
                 <h5>Country: {country}</h5>
+                <button onClick = {()=>props.addCart(props.leader)} className="donate-btn">Add Donate</button>
             </div>
         </div>
     );

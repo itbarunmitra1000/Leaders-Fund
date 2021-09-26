@@ -1,6 +1,6 @@
 .leader{
     
-    background-color: rgb(223, 255, 244);
+    background-color: rgb(245, 255, 251);
     text-align: center;
     padding: 10px;
     border-radius: 25px;
@@ -9,4 +9,16 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
+}
+.donate-btn{
+    width: 150px; 
+    height: 30px;
+    background-color: rgb(105, 104, 11);
+    border-radius: 5px;
+    border: 1px solid rgb(80, 80, 3);
+    color: rgb(255, 255, 255);
+}
+.donate-btn:hover{
+    background-color: #000;
+    cursor: pointer;
 }
