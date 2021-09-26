@@ -1,20 +1,23 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faMoneyBill } from '@fortawesome/free-solid-svg-icons'
 import './Leader.css';
 
 const Leader = (props) => {
     const { name, age, birth, role, country, salary, img } = props.leader;
+    const moneyIcon = <FontAwesomeIcon icon={faMoneyBill} />
     return (
         <div className="leader">
-            <div>
+            <div className = 'leader-cart'>
                 
                 <img src={img} alt="" />
                 <h3>Name: {name}</h3>
-                <h2>Birth: {birth}</h2>
+                <h3>Birth: {birth}</h3>
                 <h4>Age: {age} </h4>
                 <h4>Role: {role}</h4>
-                <h4>Salary: {salary} </h4>
+                <h4>Salary: $ {salary} </h4>
                 <h5>Country: {country}</h5>
-                <button onClick = {()=>props.addCart(props.leader)} className="donate-btn">Add Donate</button>
+                <button onClick = {()=>props.addCart(props.leader)} className="donate-btn"> {moneyIcon }&nbsp; &nbsp; Add Donate</button>
             </div>
         </div>
     );

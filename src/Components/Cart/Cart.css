@@ -1,3 +1,13 @@
 .cart{
-    margin-left: 20px;
+    margin-left: 10px;
+    background-color: rgb(83, 83, 133);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    position: fixed;
+}
+
+.donarList{
+  display: block;
+  margin: 0 10px;
 }

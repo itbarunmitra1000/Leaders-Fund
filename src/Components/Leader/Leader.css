@@ -1,22 +1,31 @@
 .leader{
     
-    background-color: rgb(245, 255, 251);
-    text-align: center;
-    padding: 10px;
+    background-color: rgb(250, 250, 255);
+    
+    padding: 15px;
     border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .leader img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.leader-cart{
+    margin-left: 10px;
 }
 .donate-btn{
     width: 150px; 
     height: 30px;
-    background-color: rgb(105, 104, 11);
+    background-color: rgb(83, 83, 133);
     border-radius: 5px;
-    border: 1px solid rgb(80, 80, 3);
+    border: 1px solid rgb(59, 59, 105);
     color: rgb(255, 255, 255);
+    display: block;
+    margin: 0 auto;
 }
 .donate-btn:hover{
     background-color: #000;
