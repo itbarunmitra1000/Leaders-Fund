@@ -1,3 +1,4 @@
+/* cart style  */
 .cart{
     margin-left: 10px;
     background-color: rgb(83, 83, 133);
@@ -6,7 +7,8 @@
     border-radius: 10px;
     position: fixed;
 }
-
+ 
+ /* donarList style  */
 .donarList{
   display: block;
   margin: 0 10px;

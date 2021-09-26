@@ -6,12 +6,13 @@ import './Leaders.css'
 const Leaders = () => {
     const [leaders, setLeaders] = useState([]);
     const [cart, setCart] = useState([]);
-
+    // load leader data 
     useEffect(() => {
         fetch('./leader.JSON')
             .then(res => res.json())
             .then(data => setLeaders(data));
     }, [])
+    // handle add cart on click 
     const addCart = (leader) => {
         const newCart = [...cart,leader];
         setCart(newCart);
@@ -19,8 +20,9 @@ const Leaders = () => {
     return (
         <div className='leaders'>
             <div className='leaders-list '>
+            {/* pass data in leader component   */}
                 {
-
+                   
                     leaders.map(leader => <Leader
                         key={leader.key}
                         leader={leader}
@@ -30,6 +32,7 @@ const Leaders = () => {
 
             </div>
             <div>
+            {/* passing cart component  */}
                 <Cart cart={cart}></Cart>
             </div>
         </div>
