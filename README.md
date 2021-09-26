@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Make A Fund for a Charity Organizations
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
