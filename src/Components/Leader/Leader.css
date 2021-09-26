@@ -1,0 +1,12 @@
+.leader{
+    
+    background-color: rgb(223, 255, 244);
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+}
+.leader img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

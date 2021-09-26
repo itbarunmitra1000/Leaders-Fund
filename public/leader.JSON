@@ -1,0 +1,142 @@
+[
+    {
+        "key": 1,
+        "name": "Narendra Modi",
+        "age": 71,
+        "birth": 1950,
+        "country": "India",
+        "role": "Prime Minister",
+        "salary": 160000,
+        "img": "https://d1e00ek4ebabms.cloudfront.net/production/6c3bdab3-e54a-4515-826a-c6894410b703.jpg"
+    },
+    {
+        "key": 2,
+        "name": "Joe Biden",
+        "age": 78,
+        "birth": 1942,
+        "country": "The United States",
+        "role": "President",
+        "salary": 2468218,
+        "img": "https://www.whitehouse.gov/wp-content/uploads/2021/04/P20210303AS-1901-cropped.jpg"
+    },
+    {
+        "key": 3,
+        "name": "Donald John Trump",
+        "age": 75,
+        "birth": 1946,
+        "country": "The United States",
+        "role": "Ex President",
+        "salary": 1352583,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1200px-Donald_Trump_official_portrait.jpg"
+    },
+    {
+        "key": 4,
+        "name": "Sheikh Hasina",
+        "age": 73,
+        "birth": 1947,
+        "country": "Bangladesh",
+        "role": "Prime Minister",
+        "salary": 8326,
+        "img": "https://cdn.britannica.com/46/199146-050-C345A41F/Sheikh-Hasina-Wazed-2012.jpg"
+    },
+    {
+        "key": 5,
+        "name": "Abdul Hamid",
+        "age": 77,
+        "birth": 1944,
+        "country": "India",
+        "role": "President",
+        "salary": 173766,
+        "img": "https://www.eub.edu.bd/wp-content/uploads/2018/01/Abdul-Hamid.jpg"
+    },
+    {
+        "key": 6,
+        "name": "Ram Nath Kovind",
+        "age": 71,
+        "birth": 1950,
+        "country": "India",
+        "role": "President",
+        "salary": 350000,
+        "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/cats_206.jpg?WMRX61EyDl_TkBSfyjxpM_GLu.xdcVU.&size=770:433"
+    },
+    {
+        "key": 7,
+        "name": "Boris Johnson",
+        "age": 57,
+        "birth": 1964,
+        "country": "The United Kingdom",
+        "role": "Prime Minister",
+        "salary": 1362932,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg"
+    },
+    {
+        "key": 8,
+        "name": "Justin Trudeau",
+        "age": 49,
+        "birth": 1971,
+        "country": "Canada",
+        "role": "Prime Minister",
+        "salary": 1693150,
+        "img": "https://assets.weforum.org/sf_account/image/UgD8pKdNbiwi8GQQZxl49hBZxQs1xp1V1incce1bSBc.jpg"
+    },
+    {
+        "key": 9,
+        "name": "Frank-Walter Steinmeier",
+        "age": 65,
+        "birth": 1956,
+        "country": "Germany",
+        "role": "President",
+        "salary": 1753745,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Frank-Walter_Steinmeier_-_2018_%28cropped%29.jpg"
+    },
+    {
+        "key": 10,
+        "name": "Mahinda Rajapaksa",
+        "age": 75,
+        "birth": 1945,
+        "country": "Sri Lanka",
+        "role": "Prime Minister",
+        "salary": 175200,
+        "img": "https://live.staticflickr.com/6230/6217090390_b7f7693856_b.jpg"
+    },
+    {
+        "key": 11,
+        "name": "Sher Bahadur Deuba",
+        "age": 75,
+        "birth": 1946,
+        "country": "Nepal",
+        "role": "Prime Minister",
+        "salary": 85000,
+        "img": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/06/nepalese-prime-minister-k-1529397430.jpg"
+    },
+    {
+        "key": 12,
+        "name": "Xi Jinping",
+        "age": 68,
+        "birth": 1953,
+        "country": "The Peoples Republic of China",
+        "role": "President",
+        "salary": 126496,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Xi_Jinping_2019.jpg"
+    },
+    {
+        "key": 13,
+        "name": "Lotay Tshering",
+        "age": 52,
+        "birth": 1969,
+        "country": "Bhutan",
+        "role": "Prime Minister",
+        "salary": 125400,
+        "img": "https://wiki.factsider.com/wp-content/uploads/2019/04/Dr-Lotay-Tshering.png"
+    },
+    {
+        "key": 14,
+        "name": "Scott Morrison",
+        "age": 53,
+        "birth": 1968,
+        "country": "Australia",
+        "role": "Prime Minister",
+        "salary": 175650,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGozbrkxjXdTVF6PE_4hEm82p3VQJ1Q0DEdA&usqp=CAU"
+    }
+]
